@@ -1,1 +1,10 @@
-![Snake animation](https://github.com/seu-usuário-aqui/andertambosi/blob/output/github-contribution-grid-snake.svg)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>snk - interactive</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><script defer src="13aa5b93554e67ec8ec3.js"></script></head>
+  <body>
+  </body>
+</html>
